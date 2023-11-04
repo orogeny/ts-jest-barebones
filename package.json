@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "A TS/Jest barebones repo",
   "main": "index.js",
-  "scripts": {
-    "build": "tsc --project tsconfig.build.json",
-    "start": "nodemon src/index.ts",
-    "test": "jest --watch"
-  },
   "author": {
     "name": "Paul Wharin",
     "email": "paulwharin@gmail.com",
     "url": "https://github.com/orogeny"
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.build.json",
+    "start": "nodemon src/index.ts",
+    "test": "jest --watch"
   },
   "license": "ISC",
   "devDependencies": {
