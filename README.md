@@ -1,4 +1,3 @@
-## TypeScript with Jest barebones repo
+# TypeScript with Jest barebones repo
 
-# Barebones repo
-
+## TS/Jest Template repository
